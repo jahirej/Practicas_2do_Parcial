@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P5-7S11-PersonalToast</string>
+    <string name="lblA1Info">Personaliza Toast</string>
+    <string name="btnA1Lanzar">Lanza Toast</string>
+    <string name="lblA2Nombre">Ing. Jahir Escobar</string>
+    <string name="lblA2Apellido">Escobar</string>
+</resources>
